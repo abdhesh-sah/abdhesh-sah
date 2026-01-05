@@ -16,7 +16,7 @@ I am a **Full-Stack Developer** and **Engineering Student** at **Advanced Colleg
 - 🎓 **Education**: Pursuing Bachelor's in Engineering.
 - 💻 **Focus**: Crafting seamless user experiences and robust backend systems.
 - 🛠️ **Current Focus**: Mastering **TypeScript**, **Python**, and **System Design**.
-- ⚡ **Fun Fact**: My best code is fueled by caffeine and my Zenbook 14 OLED!
+- ⚡ **Fun Fact**: My best code is fueled by caffeine!
 
 ---
 
