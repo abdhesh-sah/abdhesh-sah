@@ -68,15 +68,15 @@ I am a **Full-Stack Developer** and **Engineering Student** at **Advanced Colleg
 
 ### 📊 GitHub Ecosystem
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdhesh369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdhesh's GitHub Stats" />
+  <img src="https://github-readme-stats-kappa.vercel.app/api?username=abdhesh369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdhesh's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdhesh369&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=abdhesh369&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdhesh369&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdhesh369&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
