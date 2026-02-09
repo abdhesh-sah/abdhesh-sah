@@ -37,16 +37,15 @@ I am a **Full-Stack Developer** and **Engineering Student** at **Advanced Colleg
       <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
     </td>
     <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /><br/>
       <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /><br/>
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/NodeJS-6DA55F?style=flat-square&logo=node.js&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" /><br/>
