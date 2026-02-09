@@ -39,8 +39,8 @@ I am a **Full-Stack Developer** and **Engineering Student** at **Advanced Colleg
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /><br/>
       <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" />
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/NodeJS-6DA55F?style=flat-square&logo=node.js&logoColor=white" /><br/>
