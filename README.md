@@ -31,9 +31,9 @@ I am a **Full-Stack Developer** and **Engineering Student** at **Advanced Colleg
   </tr>
   <tr>
     <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
     </td>
     <td align="center" valign="top">
