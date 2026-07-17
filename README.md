@@ -1,26 +1,36 @@
-# <p align="center">Hi there, I'm Abdhesh Sah! 👋</p>
+<p align="center">Hi, I'm Abdhesh Sah 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Engineering+Student;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Aspiring+AI+Engineer;Engineering+Student;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdhesh369&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abdhesh369" />
+  <img src="https://komarev.com/ghpvc/?username=abdhesh-sah&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abdhesh-sah" />
 </p>
 
 ---
 
-### 🌌 About Me
-I am a **Full-Stack Developer** and **Engineering Student** at **Advanced College of Engineering and Management (ACEM)**. I am passionate about building high-performance web applications and exploring the depths of software engineering.
+### About Me
 
-- 🎓 **Education**: Pursuing Bachelor's in Engineering.
-- 💻 **Focus**: Crafting seamless user experiences and robust backend systems.
-- 🛠️ **Current Focus**: Mastering **TypeScript**, **Python**, and **System Design**.
-- ⚡ **Fun Fact**: My best code is fueled by caffeine!
+I'm a second-year Electronics, Communication & Information Engineering student at ACEM (Tribhuvan University, Nepal), building full-stack products and working toward becoming an AI engineer.
+
+- 🎓 **Studying**: BEI (Electronics, Communication & Information Engineering)
+- 🛠️ **Building**: production-shaped side projects — auth, payments, caching, background jobs, not just CRUD
+- 🧠 **Learning**: machine learning fundamentals alongside full-stack work
+- 🌐 **Site**: [abdheshsah.com.np](https://abdheshsah.com.np)
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Projects
+
+
+**Portfolio Site** — [abdheshsah.com.np](https://abdheshsah.com.np)
+React 19 + Vite frontend, Node/Express + TypeScript backend, PostgreSQL (Neon) via Drizzle ORM, Redis + BullMQ for background jobs, Cloudinary, Sentry. Went through an external code review that flagged real production issues (a secrets-handling vulnerability, a cache stampede risk) — since fixed.
+`React` `TypeScript` `PostgreSQL` `Drizzle` `BullMQ`
+
+---
+
+### Tech Stack
 
 <table align="center">
   <tr>
@@ -34,18 +44,21 @@ I am a **Full-Stack Developer** and **Engineering Student** at **Advanced Colleg
       <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /><br/>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /><br/>
+      <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/NodeJS-6DA55F?style=flat-square&logo=node.js&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" /><br/>
@@ -58,14 +71,8 @@ I am a **Full-Stack Developer** and **Engineering Student** at **Advanced Colleg
 
 ---
 
-### 🎯 Currently Learning & Goals
-- 🚀 **Advanced React Concepts** (Server Components, Performance Optimization)
-- 🧠 **Data Structures & Algorithms** in Python
-- ☁️ **Cloud Computing** basics (AWS/Google Cloud)
+### GitHub Stats
 
----
-
-### 📊 GitHub Ecosystem
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdhesh-sah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&include_all_commits=false" alt="Abdhesh's GitHub Stats" />
 </p>
@@ -80,17 +87,18 @@ I am a **Full-Stack Developer** and **Engineering Student** at **Advanced Colleg
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/abdhesh369">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://abdheshsah.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:abdheshshah111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </p>
